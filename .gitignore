@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+.idea
+/build
+/coverage
+/public
+npm-debug.log
+config/assets.json
+.vagrant
+Dockercfg
+/logs
+/playground/logs
+*.sublime-workspace
