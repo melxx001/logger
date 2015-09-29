@@ -1,0 +1,7 @@
+# Ignore built files.
+.idea/
+build/**
+config/**
+coverage/**
+node_modules/**
+public/**
