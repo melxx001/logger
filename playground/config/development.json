@@ -1,0 +1,16 @@
+{
+  "logging": {
+    "description":{
+      "name": "logger",
+      "application": "Logs",
+      "applicationVersion": ""
+    },
+    "logType": {
+      "logFile": {
+        "enabled": true,
+        "filename": "./logs/errors.log",
+        "level": "error"
+      }
+    }
+  }
+}
