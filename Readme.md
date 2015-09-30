@@ -1,6 +1,6 @@
 #      Logger
 
-This module will log errors and metrics via RabbitMQ to Elasticsearch and errorservices. IT also has the ability to log to a file and to the console.
+This module will log errors and metrics via RabbitMQ to Elasticsearch. It also has the ability to log to a file and to the console.
 
 ## Installation 
 Prior to publishing to npm, you can install using:
